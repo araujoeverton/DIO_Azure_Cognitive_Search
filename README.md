@@ -1,5 +1,5 @@
 # DIO_Azure_Cognitive_Search
-Lab feito durante o Bootcamp: Microsoft Azure AI Fundamentals com realização da Dio, juntamente com a Microsoft. O primeiro projeto consiste na criação de um modelo de pesquisa Cognitiva.
+Lab feito durante o Bootcamp: Microsoft Azure AI Fundamentals com realização da Dio, juntamente com a Microsoft. O quinto projeto consiste na criação de um modelo de pesquisa Cognitiva.
 
 ## Preparando o ambiente
 Criaremos um recurso AI Search da Azure, com a configuração de pagamento Basic, utilizaremos também o recurso de AI Services, e uma storage account com um blob storage para armazenamento de arquivos.
